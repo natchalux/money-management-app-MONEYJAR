@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Friend
+comment1.params=firstName\ lastName
+comment1.target=Friend(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getFirstName()
+comment3.params=
+comment3.target=java.lang.String\ getLastName()
+comment4.params=
+comment4.target=double\ getBalance()
+comment5.params=
+comment5.target=java.lang.String\ getFullName()
+comment6.params=newFirstName
+comment6.target=void\ setFirstName(java.lang.String)
+comment7.params=balance
+comment7.target=void\ setBalance(double)
+comment8.params=
+comment8.target=void\ friendDetails()
+numComments=9

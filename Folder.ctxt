@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Folder
+comment0.text=\n\ Write\ a\ description\ of\ class\ Folder\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=folderBalance\ folderName
+comment1.target=Folder(double,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Folder\n
+comment2.params=
+comment2.target=double\ getFolderBalance()
+comment3.params=
+comment3.target=java.lang.String\ getFolderName()
+comment4.params=newBalance
+comment4.target=void\ setFolderBalance(double)
+comment5.params=newFolderName
+comment5.target=void\ setFolderName(java.lang.String)
+numComments=6

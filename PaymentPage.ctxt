@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PaymentPage
+comment0.text=\n\ Write\ a\ description\ of\ class\ PaymentPage\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=PaymentPage()
+comment2.params=amount
+comment2.target=void\ processPayment(double)
+comment3.params=
+comment3.target=void\ showPaymentSuccessMessage()
+comment4.params=
+comment4.target=void\ showPaymentFailureMessage()
+numComments=5

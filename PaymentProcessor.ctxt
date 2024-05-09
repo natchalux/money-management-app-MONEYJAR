@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PaymentProcessor
+comment0.text=\n\ Write\ a\ description\ of\ class\ PaymentProcessor\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ holdToReader()
+comment2.params=amount
+comment2.target=boolean\ processPayment(double)
+numComments=3

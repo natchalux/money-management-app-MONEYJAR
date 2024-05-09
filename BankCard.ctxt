@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BankCard
+comment0.text=\n\ Write\ a\ description\ of\ class\ BankCard\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=BankCard()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ BankCard\n\ Take\ no\ parameter\ for\ quick\ demo\n
+comment2.params=
+comment2.target=boolean\ isVerify()
+comment2.text=\n\ Check\ whether\ the\ card\ information\ is\ valid\n\ For\ the\ purpose\ of\ demo\ we\ will\ assume\ all\ the\ card\ information\ is\ valid\n
+numComments=3
